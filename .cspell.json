@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/master/cspell.schema.json",
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "awcache",
+    "backoff",
+    "dbaeumer",
+    "eamodio",
+    "ECONNRESET",
+    "esbenp",
+    "ETIMEDOUT",
+    "fastify",
+    "lcov",
+    "npmjs",
+    "orta",
+    "ryanluker",
+    "todos",
+    "tsbuildinfo",
+    "typebox"
+  ]
+}
